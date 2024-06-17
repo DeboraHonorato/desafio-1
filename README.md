@@ -7,7 +7,7 @@
 </div>
 <br>
 <h2>👩‍💻 Sobre o projeto</h2>
-<p>Este projeto é um portfólio pessoal desenvolvido no curdo do DevClub para treinar e aprimorar habilidades em HTML e CSS. O objetivo principal é criar uma página web visualmente atraente e funcional.</p>
+<p>Este projeto é um portfólio pessoal desenvolvido no curso do DevClub para treinar e aprimorar habilidades em HTML e CSS. O objetivo principal é criar uma página web visualmente atraente e funcional.</p>
 
 <h2>💻​Tecnologias Utilizadas</h2>
 <p><strong>HTML</strong>: Utilizado para estruturar o conteúdo da página, incluindo seções como cabeçalho.</p>
