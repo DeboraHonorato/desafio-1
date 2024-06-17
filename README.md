@@ -3,7 +3,7 @@
 <h2>Esse foi um projeto que desenvolvi no curso <a href="https://aulas.devclub.com.br/"><strong>DevClub</strong></a></h2>
 <br>
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/DeboraHonorato/wide-coverage-location/blob/main/assets/desktop.png?raw=true" style="width: 450px; height: auto;"/> <img src="https://github.com/DeboraHonorato/wide-coverage-location/blob/main/assets/mobile.png?raw=true" style="width: auto; height: 450px;" />
+  <img src="https://github.com/DeboraHonorato/wide-coverage-location/blob/main/assets/desktop.png?raw=true" style="width: 600px; height: auto;"/> <img src="https://github.com/DeboraHonorato/wide-coverage-location/blob/main/assets/mobile.png?raw=true" style="width: auto; height: 450px;" />
 </div>
 <br>
 <h2>👩‍💻 Sobre o projeto</h2>
